@@ -1,6 +1,8 @@
 # whatsapp_redesign
 
 A new Flutter project.
+A Skeleton UI for Whatapp in Flutter.
+Network connection is must for running the app for image loading
 
 ## Getting Started
 
